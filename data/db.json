@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, sapiente vitae nostrum excepturi tempora eveniet molestias exercitationem quam esse, incidunt aliquam voluptas soluta beatae blanditiis illum sit? Dolorum exercitationem voluptates nisi, quam corrupti inventore laborum molestiae molestias magnam qui iste praesentium earum nobis fugit, quaerat sapiente omnis ducimus ipsum assumenda!",
+      "author": "miszke",
+      "id": 1
+    },
+    {
+      "title": "Witamy",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid harum saepe vero ratione, unde veniam voluptatum. Cupiditate accusantium ab qui maiores doloribus ducimus explicabo magnam vel, at consequuntur aspernatur nostrum ipsa iure delectus neque assumenda labore culpa numquam deserunt cum quibusdam veritatis quasi blanditiis? Nemo error quisquam, ab officiis debitis nisi saepe alias cupiditate aspernatur minus aut laborum quia in unde corporis, consequatur modi velit, hic odio minima explicabo autem. Fugit ex necessitatibus assumenda, dicta modi repellat ab quidem veritatis facere repudiandae quod dolores vel ipsam voluptas excepturi blanditiis hic consequuntur corporis corrupti ad! Laudantium recusandae necessitatibus culpa temporibus atque iusto officiis, cum, assumenda officia eveniet neque? A exercitationem laborum sunt natus perspiciatis quia accusantium alias aperiam amet ipsam error est, expedita ducimus distinctio quisquam provident aliquid. Consequuntur saepe qui quisquam nihil placeat, quis obcaecati sunt, mollitia quo atque, similique molestiae libero? Consequatur nemo cumque iste deserunt porro. Provident vel sapiente ipsam maiores ex corrupti aliquam error fugiat exercitationem corporis, rem expedita ut iusto consequatur iste repudiandae doloribus eos animi libero, saepe porro assumenda vero. Exercitationem perspiciatis soluta repellendus velit modi nam, delectus rem perferendis veniam doloremque qui dolorum vel, blanditiis incidunt magni fuga nulla voluptate facere. Repellat, iste quas?",
+      "author": "basia",
+      "id": 2
+    },
+    {
+      "title": "Chodźmy na spacer",
+      "body": "lorem imsum ...",
+      "author": "gucio",
+      "id": 3
+    },
+    {
+      "title": "Lubię placki",
+      "body": "Są pyszne",
+      "author": "miszke",
+      "id": 4
+    },
+    {
+      "title": "Pływam na kajaku",
+      "body": "I robię różne fajne tricki",
+      "author": "miszke",
+      "id": 6
+    }
+  ]
+}
